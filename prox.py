@@ -1,0 +1,1 @@
+print("ammathodu addanga narikestha")
